@@ -1,6 +1,6 @@
 # WriteFree-FrontEnd
 
-## Learn more on my (website)[https://sidpremkumar.com/writefree.html]
+## Learn more on my [website](https://sidpremkumar.com/writefree.html)
 
 ## Installation
 1. ``` cd draftjs/```
